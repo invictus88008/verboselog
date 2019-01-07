@@ -1,0 +1,30 @@
+{
+  "name": "deeplog",
+  "version": "1.0.0",
+  "description": "A simple way to fully view deeply nested data in the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invictus88008/deeplog.git"
+  },
+  "keywords": [
+    "console.log",
+    "view",
+    "objects",
+    "in",
+    "console",
+    "view",
+    "array",
+    "in",
+    "console"
+  ],
+  "author": "Nate Hargitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invictus88008/deeplog/issues"
+  },
+  "homepage": "https://github.com/invictus88008/deeplog#readme"
+}
