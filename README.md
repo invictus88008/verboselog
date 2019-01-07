@@ -31,12 +31,32 @@ var data = {
 
 ```
 
-`console.log('here is your data`, data)`
+`console.log('here is your data', data)`
 
 ### Output
+
+```
+here is your data { test1: 'test1',
+  test2: { a: 'a', b: 'b', c: 'c', d: { d: 'd' } },
+  test3: [ [ 'a', 'b' ], 'a', [ [Array], [Array] ] ] }
+```
 
 
 `verboselog(data, 'here is your data')`
 
 ### Output
+
+```
+here is your data
+{ test1: 'test1',
+  test2: { a: 'a', b: 'b', c: 'c', d: { d: 'd' } },
+  test3: 
+   [ [ 'a', 'b', [length]: 2 ],
+     'a',
+     [ [ 'a', 'b', [length]: 2 ],
+       [ 'a', 'b', [length]: 2 ],
+       [length]: 2 ],
+     [length]: 3 ] }
+
+```
 
