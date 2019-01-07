@@ -1,5 +1,5 @@
 {
-  "name": "deeplog",
+  "name": "verboselog",
   "version": "1.0.0",
   "description": "A simple way to fully view deeply nested data in the console.",
   "main": "index.js",

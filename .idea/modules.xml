@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deeplog.iml" filepath="$PROJECT_DIR$/.idea/deeplog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../verboselog/.idea/verboselog.iml" filepath="$PROJECT_DIR$/../verboselog/.idea/verboselog.iml" />
     </modules>
   </component>
 </project>

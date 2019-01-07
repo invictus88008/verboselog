@@ -1,10 +1,10 @@
-# Welcome to deeplog
+# Welcome to verboselog
 
-Deeplog was written as a solution to view entire objects or arrays in the console in js.  It is a very simple package that you can write your self, but I got sick of writing it so I made it an npm package.  Feel free to use your self.
+verboselog was written as a solution to view entire objects or arrays in the console in js.  It is a very simple package that you can write your self, but I got sick of writing it so I made it an npm package.  Feel free to use your self.
 
 ## Installation
 
-npm install deeplog
+npm install verboselog
 
 ## Useage
 
@@ -36,7 +36,7 @@ var data = {
 ### Output
 
 
-`deeplog(data, 'here is your data')`
+`verboselog(data, 'here is your data')`
 
 ### Output
 
